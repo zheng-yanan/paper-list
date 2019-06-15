@@ -36,12 +36,14 @@ This is a collection of milestone papers on disentangled representation learning
 
 ## Variational Neural Models 
 
-
 * **[ICLR2014] Auto-Encoding Variational Bayes [[paper]](https://arxiv.org/pdf/1312.6114.pdf)**
+* **[ICLR2014] Stochastic Backpropagation and Approximate Inference [[paper]](http://proceedings.mlr.press/v32/rezende14.pdf)**
 * **[ICLR2015] Importance Weighted Autoencoders [[paper]](https://arxiv.org/abs/1509.00519)**
 * **[Workshop on ICLR2015] Variational Recurrent Auto-Encoders [[paper]](https://arxiv.org/abs/1412.6581)**
 * **[NIPS2015] A Recurrent Latent Variable Model for Sequential Data [[paper]](http://arxiv.org/abs/1506.02216) [[code]](https://github.com/jych/nips2015_vrnn)**
+* **[ICML2015] Learning to Generate with Memory [[paper]](https://arxiv.org/pdf/1602.07416.pdf)**
 * **[ICLR2016] Generating Sentences from a Continuous Space [[paper]](https://arxiv.org/abs/1511.06349)**
+* **[ICLR2016] Hierarchical Variational Models [[paper]](https://arxiv.org/pdf/1511.02386.pdf)**
 * **[NIPS2016] Ladder Variational Autoencoders [[paper]](https://arxiv.org/pdf/1602.02282.pdf)**
 * **[NIPS2016] Improved Variational Autoencoders with Inverse Autoregressive Flow [[paper]](https://papers.nips.cc/paper/6581-improved-variational-inference-with-inverse-autoregressive-flow.pdf)**
 * **[Workshop on ICLR2017] Re-interpreting Importance Weighted Autoencoders [[paper]](https://openreview.net/pdf?id=Syw2ZgrFx)**
@@ -49,7 +51,9 @@ This is a collection of milestone papers on disentangled representation learning
 * **[AAAI2017] Variational Autoencoder for Semi-Supervised Text Classification [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14299/14261)**
 * **[ICLR2017] Variational Lossy Autoencoder [[paper]](https://arxiv.org/abs/1611.02731)**
 * **[ICLR2017] Beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework [[paper]](https://openreview.net/forum?id=Sy2fzU9gl) [[code]](https://github.com/katalinic/betaVAE)**
+* **[ICLR2017] On the Quantitative Analysis of Decoder-based Generative Models [[paper]](https://arxiv.org/pdf/1611.04273.pdf)**
 * **[NIPS2017] InfoVAE: Information Maximizing Variational Autoencoders [[paper]](https://arxiv.org/abs/1706.02262)**
+* **[ICML2018] Tighter Variational Bounds are Not Necessarily Better [[paper]](https://arxiv.org/pdf/1802.04537.pdf)**
 * **[NAACL2019] Stochastic Wasserstein Autoencoder for Probabilistic Sentence Generation [[paper]](https://arxiv.org/pdf/1806.08462.pdf) [[code]](https://github.com/HareeshBahuleyan/probabilistic_nlg)**
 
 
