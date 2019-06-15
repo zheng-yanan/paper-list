@@ -64,12 +64,13 @@ This is a collection of milestone papers on disentangled representation learning
 * **[2016] Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models [[paper]](https://arxiv.org/pdf/1507.04808.pdf)**
 * **[ACL2016] A Persona-Based Neural Conversation Model [[paper]](http://www.aclweb.org/anthology/P16-1094)**
 * **[ACL2017] A Conditional Variational Framework for Dialog Generation [[paper]](https://arxiv.org/pdf/1705.00316.pdf)** 
-* **[ICLR2018] Towards Interpretable Chit-Chat: Open Domain Dialogue Generation With Dialogue Acts [[paper]](https://openreview.net/pdf?id=Bym0cU1CZ)** 
 * **[IJCAI2017] Exploring Personalized Neural Conversational Models [[paper]](https://www.ijcai.org/proceedings/2017/0521.pdf)**
 * **[SIGIR2017] Personalized Response Generation via Domain adaptation [[paper]](https://dl.acm.org/citation.cfm?id=3080706)**
 * **[AAAI2017] Topic Aware Neural Response Generation [[paper]](https://arxiv.org/pdf/1606.08340.pdf)**
 * **[ACL2018] Personalizing Dialogue Agents: I have a dog, do you have pets too? [[paper]](http://aclweb.org/anthology/P18-1205)**
 * **[ACL2018] Generating Informative Responses with Controlled Sentence Function [[paper]](http://www.aclweb.org/anthology/P18-1139)**
+* **[ACL2018] Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation [[paper]](https://arxiv.org/pdf/1804.08069.pdf) [[code]](https://github.com/snakeztc/NeuralDialog-LAED)**
+* **[ICLR2018] Towards Interpretable Chit-Chat: Open Domain Dialogue Generation With Dialogue Acts [[paper]](https://openreview.net/pdf?id=Bym0cU1CZ)** 
 * **[AAAI2018] Improving Variational Encoder-Decoders in Dialogue Generation [[paper]](https://arxiv.org/abs/1802.02032)**
 * **[AAAI2018] Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)**
 * **[SIGIR2018] Chat More: Deepening and Widening the Chatting Topic via A Deep Model [[paper]](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018SIGIR_Wangwenjie.pdf)**
