@@ -50,7 +50,7 @@ This is a collection of milestone papers on disentangled representation learning
 * **[ICLR2017] Variational Lossy Autoencoder [[paper]](https://arxiv.org/abs/1611.02731)**
 * **[ICLR2017] Beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework [[paper]](https://openreview.net/forum?id=Sy2fzU9gl) [[code]](https://github.com/katalinic/betaVAE)**
 * **[NIPS2017] InfoVAE: Information Maximizing Variational Autoencoders [[paper]](https://arxiv.org/abs/1706.02262)**
-
+* **[NAACL2019] Stochastic Wasserstein Autoencoder for Probabilistic Sentence Generation [[paper]](https://arxiv.org/pdf/1806.08462.pdf) [[code]](https://github.com/HareeshBahuleyan/probabilistic_nlg)**
 
 
 ## Neural Dialogue Generation
