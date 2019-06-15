@@ -31,3 +31,22 @@ This is a collection of milestone papers on disentangled representation learning
 * **[ICML2019] Disentangling Disentanglement in Variational Autoencoders [[paper]](https://arxiv.org/pdf/1812.02833v3.pdf)**
 * **[AISTATS2019] Structured Disentangled Representations [[paper]](https://arxiv.org/pdf/1804.02086.pdf)**
 * **[2019] Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations [[paper]](https://arxiv.org/pdf/1811.12359v3.pdf)**
+
+
+
+## Variational Neural Models 
+
+
+* **[ICLR2014] Auto-Encoding Variational Bayes [[paper]](https://arxiv.org/pdf/1312.6114.pdf)**
+* **[ICLR2015] Importance Weighted Autoencoders [[paper]](https://arxiv.org/abs/1509.00519)**
+* **[Workshop on ICLR2015] Variational Recurrent Auto-Encoders [[paper]](https://arxiv.org/abs/1412.6581)**
+* **[NIPS2015] A Recurrent Latent Variable Model for Sequential Data [[paper]](http://arxiv.org/abs/1506.02216) [[code]](https://github.com/jych/nips2015_vrnn)**
+* **[ICLR2016] Generating Sentences from a Continuous Space [[paper]](https://arxiv.org/abs/1511.06349)**
+* **[NIPS2016] Ladder Variational Autoencoders [[paper]](https://arxiv.org/pdf/1602.02282.pdf)**
+* **[NIPS2016] Improving Variational Autoencoders with Inverse Autoregressive Flow [[paper]](https://papers.nips.cc/paper/6581-improved-variational-inference-with-inverse-autoregressive-flow.pdf)**
+* **[Workshop on ICLR2017] Re-interpreting Importance Weighted Autoencoders [[paper]](https://openreview.net/pdf?id=Syw2ZgrFx)**
+* **[ICML2017] Improved Variational Autoencoders for Text Modeling using Dilated Convolutions [[paper]](https://arxiv.org/abs/1702.08139)**
+* **[AAAI2017] Variational Autoencoder for Semi-Supervised Text Classification [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14299/14261)**
+* **[ICLR2017] Variational Lossy Autoencoder [[paper]](https://arxiv.org/abs/1611.02731)**
+* **[ICLR2017] Beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework [[paper]](https://openreview.net/forum?id=Sy2fzU9gl) [[code]](https://github.com/katalinic/betaVAE)**
+* **[NIPS2017] InfoVAE: Information Maximizing Variational Autoencoders [[paper]](https://arxiv.org/abs/1706.02262)**
