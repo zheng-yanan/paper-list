@@ -50,3 +50,32 @@ This is a collection of milestone papers on disentangled representation learning
 * **[ICLR2017] Variational Lossy Autoencoder [[paper]](https://arxiv.org/abs/1611.02731)**
 * **[ICLR2017] Beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework [[paper]](https://openreview.net/forum?id=Sy2fzU9gl) [[code]](https://github.com/katalinic/betaVAE)**
 * **[NIPS2017] InfoVAE: Information Maximizing Variational Autoencoders [[paper]](https://arxiv.org/abs/1706.02262)**
+
+
+
+## Neural Dialogue Generation
+
+* **[Workshop in ICML2015] A Neural Conversational Model [[paper]](https://arxiv.org/pdf/1506.05869.pdf)** 
+* **[2016] A Persona-Based Neural Conversation Model [[paper]](https://arxiv.org/pdf/1603.06155v2.pdf)**
+* **[2016] A Diversity-Promoting Objective Function for Neural Conversation Models [[paper]](https://arxiv.org/pdf/1510.03055v3.pdf)**
+* **[2016] How NOT To Evaluate Your Dialogue System: An Empirical Study ofUnsupervised Evaluation Metrics for Dialogue Response Generation [[paper]](https://arxiv.org/pdf/1603.08023v1.pdf)**
+* **[2016] A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues [[paper]](https://arxiv.org/pdf/1605.06069v3.pdf)**
+* **[2016] Deep Reinforcement Learning for Dialogue Generation [[paper]](https://arxiv.org/pdf/1606.01541.pdf)**
+* **[2016] Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models [[paper]](https://arxiv.org/pdf/1507.04808.pdf)**
+* **[ACL2016] A Persona-Based Neural Conversation Model [[paper]](http://www.aclweb.org/anthology/P16-1094)**
+* **[ACL2017] A Conditional Variational Framework for Dialog Generation [[paper]](https://arxiv.org/pdf/1705.00316.pdf)** 
+* **[ICLR2018] Towards Interpretable Chit-Chat: Open Domain Dialogue Generation With Dialogue Acts [[paper]](https://openreview.net/pdf?id=Bym0cU1CZ)** 
+* **[IJCAI2017] Exploring Personalized Neural Conversational Models [[paper]](https://www.ijcai.org/proceedings/2017/0521.pdf)**
+* **[SIGIR2017] Personalized Response Generation via Domain adaptation [[paper]](https://dl.acm.org/citation.cfm?id=3080706)**
+* **[AAAI2017] Topic Aware Neural Response Generation [[paper]](https://arxiv.org/pdf/1606.08340.pdf)**
+* **[ACL2018] Personalizing Dialogue Agents: I have a dog, do you have pets too? [[paper]](http://aclweb.org/anthology/P18-1205)**
+* **[ACL2018] Generating Informative Responses with Controlled Sentence Function [[paper]](http://www.aclweb.org/anthology/P18-1139)**
+* **[AAAI2018] Improving Variational Encoder-Decoders in Dialogue Generation [[paper]](https://arxiv.org/abs/1802.02032)**
+* **[AAAI2018] Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16455/15753)**
+* **[SIGIR2018] Chat More: Deepening and Widening the Chatting Topic via A Deep Model [[paper]](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018SIGIR_Wangwenjie.pdf)**
+* **[WWW2018] Hierarchical Variational Memory Network for Dialogue Generation [[paper]](https://dl.acm.org/citation.cfm?id=3186077)**
+* **[NAACL2018] Automatic Dialogue Generation with Expressed Emotions [[paper]](http://aclweb.org/anthology/N18-2008)**
+* **[Workshop on ACL2019] Augmenting Neural Response Generation with Context-Aware Topical Attention [[paper]](https://arxiv.org/pdf/1811.01063.pdf)**
+
+ 
+
