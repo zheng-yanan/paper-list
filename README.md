@@ -43,7 +43,7 @@ This is a collection of milestone papers on disentangled representation learning
 * **[NIPS2015] A Recurrent Latent Variable Model for Sequential Data [[paper]](http://arxiv.org/abs/1506.02216) [[code]](https://github.com/jych/nips2015_vrnn)**
 * **[ICLR2016] Generating Sentences from a Continuous Space [[paper]](https://arxiv.org/abs/1511.06349)**
 * **[NIPS2016] Ladder Variational Autoencoders [[paper]](https://arxiv.org/pdf/1602.02282.pdf)**
-* **[NIPS2016] Improving Variational Autoencoders with Inverse Autoregressive Flow [[paper]](https://papers.nips.cc/paper/6581-improved-variational-inference-with-inverse-autoregressive-flow.pdf)**
+* **[NIPS2016] Improved Variational Autoencoders with Inverse Autoregressive Flow [[paper]](https://papers.nips.cc/paper/6581-improved-variational-inference-with-inverse-autoregressive-flow.pdf)**
 * **[Workshop on ICLR2017] Re-interpreting Importance Weighted Autoencoders [[paper]](https://openreview.net/pdf?id=Syw2ZgrFx)**
 * **[ICML2017] Improved Variational Autoencoders for Text Modeling using Dilated Convolutions [[paper]](https://arxiv.org/abs/1702.08139)**
 * **[AAAI2017] Variational Autoencoder for Semi-Supervised Text Classification [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14299/14261)**
@@ -78,4 +78,10 @@ This is a collection of milestone papers on disentangled representation learning
 * **[Workshop on ACL2019] Augmenting Neural Response Generation with Context-Aware Topical Attention [[paper]](https://arxiv.org/pdf/1811.01063.pdf)**
 
  
+## Techniques for KL Vanishing
 
+* **[ICLR2016] Generating Sentences from a Continuous Space [[paper]](https://arxiv.org/abs/1511.06349)**  
+* **[2016] A Diversity-Promoting Objective Function for Neural Conversation Models [[paper]](https://arxiv.org/pdf/1510.03055v3.pdf)**
+* **[AAAI2018] Improving Variational Encoder-Decoders in Dialogue Generation [[paper]](https://arxiv.org/abs/1802.02032)**
+* **[NIPS2016] Improved Variational Autoencoders with Inverse Autoregressive Flow [[paper]](https://papers.nips.cc/paper/6581-improved-variational-inference-with-inverse-autoregressive-flow.pdf)**
+* **[NAACL2019] Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing [[paper]](https://arxiv.org/abs/1903.10145) [[code]](https://github.com/haofuml/cyclical_annealing)**
