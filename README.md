@@ -76,6 +76,7 @@ This is a collection of milestone papers on disentangled representation learning
 * **[SIGIR2018] Chat More: Deepening and Widening the Chatting Topic via A Deep Model [[paper]](http://coai.cs.tsinghua.edu.cn/hml/media/files/2018SIGIR_Wangwenjie.pdf)**
 * **[WWW2018] Hierarchical Variational Memory Network for Dialogue Generation [[paper]](https://dl.acm.org/citation.cfm?id=3186077)**
 * **[NAACL2018] Automatic Dialogue Generation with Expressed Emotions [[paper]](http://aclweb.org/anthology/N18-2008)**
+* **[ICLR2019] DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder [[paper]](https://arxiv.org/abs/1805.12352)**
 * **[Workshop on ACL2019] Augmenting Neural Response Generation with Context-Aware Topical Attention [[paper]](https://arxiv.org/pdf/1811.01063.pdf)**
 
  
