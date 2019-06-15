@@ -11,6 +11,9 @@ This is a collection of milestone papers on disentangled representation learning
 * **[NIPS2017] The Beta-VAE’s Implicit Prior [[paper]](http://bayesiandeeplearning.org/2017/papers/66.pdf)**
 * **[NIPS2017] Understanding Disentangling in Beta-VAE [[paper]](https://arxiv.org/pdf/1804.03599.pdf)**
 * **[NIPS2017] Disentangling the independently controllable factors of variation by interacting with the world [[paper]](https://arxiv.org/pdf/1802.09484.pdf)**
+* **[NIPS2017] Disentangled Representations for Manipulation of Sentiment in Text [[paper]](http://www.kageback.se/2017/12/09/disentangled-representations-for-manipulation-of-sentiment-in-text/)**
+* **[NIPS2017] Quantifying the Effects of Enforcing Disentanglement on Variational Autoencoders [[paper]](https://arxiv.org/abs/1711.09159)**
+* **[NIPS2017] Semantically Decomposing the Latent Spaces of Adversarial Generative Network [[paper]](https://arxiv.org/abs/1705.07904)**
 * **[NIPS2017] Unsupervised Learning of Disentangled and Interpretable Representations from Sequential Data [[paper]](https://arxiv.org/pdf/1709.07902.pdf) [[code]](https://github.com/wnhsu/ScalableFHVAE)**
 * **[NIPS2017] Learning Disentangled Representations with Semi-Supervised Deep Generative Models [[paper]](https://arxiv.org/pdf/1706.00400.pdf)**
 * **[Workshop on NIPS2018] Recent Advances in Autoencoder-Based Representation Learning [[paper]](http://bayesiandeeplearning.org/2018/papers/151.pdf?fbclid=IwAR0AKPuAsCFFsTCJ52o6-BkJebR9UuURnesksd1wf5QfLvuU2LBetc7moKc)**
