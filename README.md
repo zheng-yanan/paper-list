@@ -87,7 +87,7 @@ This is a collection of milestone papers on disentangled representation learning
 ## Techniques for KL Vanishing
 
 * **[ICLR2016] Generating Sentences from a Continuous Space [[paper]](https://arxiv.org/abs/1511.06349)**  
-* **[2016] A Diversity-Promoting Objective Function for Neural Conversation Models [[paper]](https://arxiv.org/pdf/1510.03055v3.pdf)**
+* **[2016] Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders [[paper]](https://arxiv.org/pdf/1703.10960.pdf)**
 * **[AAAI2018] Improving Variational Encoder-Decoders in Dialogue Generation [[paper]](https://arxiv.org/abs/1802.02032)**
 * **[NIPS2016] Improved Variational Autoencoders with Inverse Autoregressive Flow [[paper]](https://papers.nips.cc/paper/6581-improved-variational-inference-with-inverse-autoregressive-flow.pdf)**
 * **[NAACL2019] Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing [[paper]](https://arxiv.org/abs/1903.10145) [[code]](https://github.com/haofuml/cyclical_annealing)**
